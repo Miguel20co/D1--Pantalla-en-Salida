@@ -2,13 +2,13 @@
 
 # Python
 
-nombre = input("ingresa un nombre: ")
+     nombre = input("ingresa un nombre: ")
 
-edad = input("ingresa un edad: ")
+     edad = input("ingresa un edad: ")
 
-programa = input("ingresa un programa")
+     programa = input("ingresa un programa")
 
-print(f"nombre: {nombre}, edad: {edad}, programa: {programa}")
+     print(f"nombre: {nombre}, edad: {edad}, programa: {programa}")
 
      
 
